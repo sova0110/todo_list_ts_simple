@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#taskInput {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#addTaskButton {
+    padding: 10px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #28a745; /* Зеленый цвет для кнопки добавления */
+    color: white;
+    cursor: pointer;
+}
+
+#addTaskButton:hover {
+    background-color: #218838; /* Темно-зеленый при наведении */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: white;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+}
+
+li.done {
+    color: gray; /* Серый цвет для выполненных задач */
+    text-decoration: line-through; /* Зачеркивание текста */
+}
+
+button {
+    background-color: orange; /* Оранжевый цвет для кнопки удаления */
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+button:hover {
+    background-color: darkorange; /* Более темный оранжевый при наведении */
+}
