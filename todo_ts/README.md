@@ -4,8 +4,8 @@
 <p>Простой планер с возможностью добавлять задачи в лист, помечать задчи как выполненные и удалять задачи из списка</p>
   <h2>Used technologies/С использованием:</h2> 
     <div id=technologies>
-        <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png">
+        <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" height="150" width="150">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" height="150" width="150">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
