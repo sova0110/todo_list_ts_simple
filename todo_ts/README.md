@@ -15,7 +15,7 @@
   <p>Mark as done/Пометить как выполненную</p>
   <p>Delete task/Удалить задачу</p>
   <p>Save to local storage for 3 days/Хранение данных на 3 дня</p>
-  <img src="../images/todo_1.jpg" height="380">
+  <img src="./images/todo_1.jpg" height="380">
   <img src="./images/todo_2.jpg" height="380">
   <img src="./images/todo_3.jpg" height="380">
 </div>
